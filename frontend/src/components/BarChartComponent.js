@@ -29,4 +29,5 @@ const BarChartComponent = ({ selectedMonth }) => {
   );
 };
 
+
 export default BarChartComponent;
