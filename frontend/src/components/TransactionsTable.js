@@ -56,4 +56,5 @@ const TransactionsTable = ({ selectedMonth }) => {
   );
 };
 
+
 export default TransactionsTable;
