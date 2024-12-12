@@ -8,6 +8,7 @@ const transactionRoutes = require('./routes/transactions');
 
 const app = express();
 
+
 connectDB();
 
 app.use(bodyParser.json());
