@@ -9,4 +9,5 @@ const TransactionSchema = new mongoose.Schema({
   sold: Boolean
 });
 
+
 module.exports = mongoose.model('Transaction', TransactionSchema);
