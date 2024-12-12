@@ -27,4 +27,5 @@ const StatisticsBox = ({ selectedMonth }) => {
   );
 };
 
+
 export default StatisticsBox;
