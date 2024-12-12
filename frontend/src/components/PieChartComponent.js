@@ -40,4 +40,5 @@ const PieChartComponent = ({ selectedMonth }) => {
   );
 };
 
+
 export default PieChartComponent;
