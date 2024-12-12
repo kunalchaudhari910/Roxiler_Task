@@ -17,7 +17,6 @@ const initializeDatabase = async (req, res) => {
 };
 
 
-
 const listTransactions = async (req, res) => {
   const { month, search, page = 1, perPage = 10 } = req.query;
 
